@@ -1,0 +1,13 @@
+<!-- file : P09-1-teks.txt -->
+
+<h3>Pengembanan Aplikasi Web
+STMIK Jendral Achmad yani</h3>
+
+<p>Tulisan ini terdapat dalam sebuah file teks dan dibaca dengan fungsi
+pengolahan dalam PHP. PHP dapat mengolah file, membuka dan menampilkan
+isi suatu file eksternal. Apabila isi file ditampilkan dengan perintah
+<strong>echo</strong>, maka kode HTML di dalamnya akan ditampilkan sesuai
+fungsinya. Misalkan cetak <strong>tebal</strong>, <i>miring</i>, <u>bergaris bawah</u>.</p>
+
+<p>Sedang bila file data tersebut berisi data tertentu, maka PHP dapat memprosesnya
+baris per baris atau sesuai yang diberikan.</p> 

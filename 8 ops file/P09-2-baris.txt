@@ -1,0 +1,12 @@
+	<!-- file : P09-2-baris.txt -->
+Jendral Sudirman
+Jendral Achmad Yani
+Pangeran Diponegoro
+Teuku Umar
+Cut Nyak Dien
+RA Kartini
+Panglima Polim
+Pattimura
+I Gusti Ngurah Rai
+Pangeran Antasari
+Bung Tomo

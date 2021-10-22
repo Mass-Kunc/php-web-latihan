@@ -1,0 +1,180 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+#wrapper {
+	width : 100%;
+	margin : 0 auto;
+	overflow : hidden;
+}
+
+.loki{
+	margin-left:250px;
+	width : 130px;
+	float : left;
+	padding :3px;
+}
+
+#log{
+	float:left;
+	width : 40%;
+	margin : 0 auto;
+	overflow : hidden;
+}
+
+#log1{
+	width : 38%;
+	margin-left : 440px;
+}
+#log1 a{ 
+	text-decoration:none;
+}
+
+
+#log2{
+	width : 85%;
+	margin-left : 110px;
+}
+
+#login{
+	background: #FFEB96;
+	margin-top:16px;
+	width : 100%; 	
+	height:130px;
+	text-align:center;
+}
+#formin{
+	background: #BFEAF8;
+	margin-top:16px;
+	width : 100%; 	
+	height:160px;
+}
+
+#header {
+	background: #ffda77;
+	margin-top:16px;
+	width : 90%; 	
+	height:130px;
+	padding:4px;
+	overflow:hidden;
+	border-bottom:6px solid #ff7b2b;
+}
+
+h1{
+	width:100%;
+	font-weight:bold;	
+	background: #17C4D8;
+	margin-top:16px;
+	height:45px;
+	text-align:center;
+}
+
+form{
+	Text-decoration:none;
+}
+	
+#sub{
+	padding:11px;
+	width:98%;	
+	font-size: 25px;
+	text-align:right;
+	border-top:5px solid orange;
+}
+
+.gmb{
+	border-right:2px solid orange;
+	float:rignht;
+	width:28px;
+	padding-right:1px;		
+}
+
+#sub a{
+	background:#C0DDC6;
+	font-size:24px;
+	font-weight:bold;
+	text-decoration:none;
+	border:2px solid orange;
+}
+
+#sidebara{
+	width:95%;
+	margin-left:28px;
+}
+
+#sidebara th{
+	font-size:32px;
+	padding-bottom:8px;
+	border-bottom:solid green;
+}
+
+#sidebara table{
+	border:solid green;
+	margin:10px;
+	width:96%;
+	text-align:center;
+}
+
+#sidebara td{
+	background:#D5D3DF;
+	width:50%;
+}
+
+#sidebara td a{
+	font-size:24px;
+	font-weight:bold;
+	color:#0E0057;
+	text-decoration:none;
+}	
+
+#sidebara  td a:hover{
+	display:block;
+	background-color:#C8C796;
+	color:black;
+}
+
+#menu{
+	margin:18px 5px 15px 5px;
+	height:45px;
+	background-color:#E6E6FA;	
+	text-align:center;
+	border-bottom:5px dashed gray;
+}
+#menu li{
+	list-style:none;
+	float : left;
+	width:10%;
+	height:35px;
+	background-color:E6E6FA;
+	margin-right:15px;
+}	
+#menu li a{
+	font-weight:bold;
+	color:black;
+	text-decoration:none;
+}
+#menu li a:hover{
+	display:block;
+	background-color:#3F3F3F;
+	color:#1BFFEA;
+}
+#tampil{
+	margin:0 auto;
+}
+
+#save {
+	text-align:center;
+	font-weight:bold;
+	font-size:24px;
+	border-top: dashed blue;
+	border-bottom: dashed blue;
+}
+
+#footer{
+	margin-top :30%;
+	text-align:center;
+	background-color:#555555;
+	padding:10px;
+	color:#f0f0f0;
+}
+
